@@ -3,6 +3,6 @@ Handlebars.registerHelper("setTitle", function(title) {
       document.title = title;  
     }
     else {
-      document.title = "Overlay"; 
+      document.title = "NecroWorks"; 
     }
 });
